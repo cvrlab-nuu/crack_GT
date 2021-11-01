@@ -13,3 +13,7 @@ The GTs are marked by 1 or 0, which denote crack and non-crack classes, respecti
 
 # License
 You will be licensed under the LICENSE file in the root directory. Please cite this paper as a reference if you are using our dataset in your study.
+
+# Contact
+Please feel free to contact us with any questions, suggestions or comments:
+chc@nuu.edu.tw
