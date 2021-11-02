@@ -1,7 +1,7 @@
 # crack_GT
 The dataset of generated ground truths 
 
-This repo is the dataset of the GTs that are produced by our algorithm (presented in the paper titled "Automated Ground Truth Generation for Learning-Based Crack Detection on Concrete Surfaces."
+This repo is the dataset of the GTs that are produced by our algorithm (presented in the paper entitled "Self-Supervised Learning-Based Crack Detection in Concrete Images via Automated Data-Labeling."
 
 Download the dataset via https://drive.google.com/drive/folders/1D0TS0dx-haFcyIZPJDQ4FM7ddxvfutAW?usp=sharing
 
